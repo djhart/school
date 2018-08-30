@@ -1,0 +1,9 @@
+| name                               | url                   | deadline | essay? | amount     | comments                                                          |
+|------------------------------------+-----------------------+----------+--------+------------+-------------------------------------------------------------------|
+| jones shirts scholarship           | http://bit.ly/2jlc6qY | 9/10/18  | yes    |            | plan for career - interview someone with 3+ years experience- fun |
+| Attorneys immigration contest      | http://bit.ly/2pvKYar | 7/1/18   | yes    | $500.00    | this might be the most boring of all so watch out                 |
+| American Bullion Scholarship       | http://bit.ly/2qo43ZJ | 10/31/18 | yes    | $1000      | gold, bitcoin as investments is topic                             |
+| Digital Responsibility             | http://bit.ly/1E22uhu | 4/30/18  | yes    | $1000      | DONT DELETE - there are multiple here 4/30 is only one date       |
+| Feldco family contest              | http://bit.ly/2ATBQ0F | 6/15/18  | yes    | $1000      | impact of family on self                                          |
+|                                    |                       |          |        |            |                                                                   |
+|------------------------------------+-----------------------+----------+--------+------------+-------------------------------------------------------------------|
