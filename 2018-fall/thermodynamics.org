@@ -1,0 +1,10 @@
+* Assignments [1/2]
+** DONE HW1 
+   CLOSED: [2018-08-30 Thu 01:02]
+** TODO HW2
+   DEADLINE: <2018-09-07 Fri>
+* Reading (is an actual assignment) [1/2]
+** DONE Week 1 Reading
+   CLOSED: [2018-08-30 Thu 01:04]
+** TODO Week 2 Reading
+   DEADLINE: <2018-09-02 Sun>

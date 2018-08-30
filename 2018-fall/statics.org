@@ -1,0 +1,9 @@
+* Assignments (Monday & Wednesday due dates) [2/4]
+** DONE Problem Set #1
+   CLOSED: [2018-08-30 Thu 00:55]
+** DONE Problem Set #2
+   CLOSED: [2018-08-30 Thu 00:56]
+** TODO Problem Set #3
+   DEADLINE: <2018-08-29 Wed>
+** TODO Problem Set #4
+   DEADLINE: <2018-09-05 Wed>

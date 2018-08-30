@@ -1,0 +1,8 @@
+* Assignments (Engineering Paper or Word Template) [0/1]
+** TODO HW1 
+   DEADLINE: <2018-09-06 Thu>
+* Lab [0/2]
+** TODO Build robot racer
+   DEADLINE: <2018-09-07 Fri>
+** TODO Learn to solder
+   DEADLINE: <2018-08-30 Thu>
