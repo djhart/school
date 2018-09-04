@@ -1,10 +1,53 @@
-* Assignments [1/2]
-** DONE HW1 
-   CLOSED: [2018-08-30 Thu 01:02]
-** TODO HW2
-   DEADLINE: <2018-09-07 Fri>
-* Reading (is an actual assignment) [1/2]
-** DONE Week 1 Reading
-   CLOSED: [2018-08-30 Thu 01:04]
-** TODO Week 2 Reading
-   DEADLINE: <2018-09-02 Sun>
+* Assignments
+** Homework
+*** TODO HW2
+    DEADLINE:<2018-09-07 Fri>
+** Reading
+*** TODO Chapter 2 Reading
+    DEADLINE:<2018-09-09 Sun>
+* Notes
+** Mechanical energy of flow of fluid
+** Heat :: form of energy hat is transferred by temp difference
+*** always high -> low
+*** Adiabatic :: no heat transfer
+**** system well insulated
+**** system and surroundings same temp
+*** Conduction
+**** object is heated molecules gain more energy and bump into nearby molecules, transferring energy
+**** Fourier's law of conduction
+***** rate of heat conduction through a plane in x direction
+***** \[\dot Q_{cond} = -kA\frac{dt}{dx}\]
+******  \[\frac{dT}{dx}\]: temp gradient in x direction
+******* \[\Delta T = T_2 - T_1 \degree C\] delta T = T_2 - T_1 degrees C
+******* delta x: layer thickness m
+****** A: wall area
+****** k: thermal conductivity of material
+*** Convection
+**** heat transfer between solid surface and adjacent fluid by movement of molecules of the liquid or gas
+**** Forced convection :: fluid is forced to flow, increasing heat transfer
+**** Newton's law of cooling
+***** Qdot_conv = hA(T_s - T_f) ;; W
+****** A: surface area ;; m^2
+****** T_S: surface temp degrees C
+****** T_f: fluid temp away from surface degrees C
+****** h: convection coefficient W/m^2 * K
+*** Radiation
+**** Energy transfer by electromagnetic waves
+**** does not require medium
+**** Qdot = epsilon sigma A(T_b^4 - T_s^4) ;; W ;; net radiation exchange between surface at T_b and much larger surface at T_s < T_b
+***** A: area of smaller surface
+***** epsilon: emissivity, property of surface
+***** sigma: Stefan-Boltzman constant: 5.67*10^8
+** Work 
+** Energy can cross boundary of closed system in form of heat or work.
+** \[Power \; \dot W\]: Work per unit of time (J/s or Watts)
+** \[W=Fs (J)\]: Work done by constant force in direction of displacement ;; s = displacement
+** Sign Convention
+*** W > 0: Work done by system
+*** W < 0: Work done to system
+*** Boundary work positive during expansion, negative during compression
+*** Heat transfer to system is positive, from system is negative
+** Systems have energy, not heat or work
+*** Heat and work are associated with a process, not a state
+*** Q and W are path functions (magnitude depends on the path as well as the end states)
+*** differential is represented by \[\delta Q \; or \; \delta W\] not dQ or dW

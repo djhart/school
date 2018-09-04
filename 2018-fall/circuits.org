@@ -1,5 +1,27 @@
-* Assignments (4016 SC) [0/1]
-** TODO HW1
-   DEADLINE: <2018-08-31 Fri>
-   - on icon 
+* Assignments (4016 SC) [1/2]
+** DONE HW1
+   CLOSED: [2018-08-31 Fri 12:59] DEADLINE: <2018-08-31 Fri>
+   - [[file:circuits/hw01.pdf][HW1 problems]]
    - due at 1630 in 4016 SC
+** TODO HW2 
+   DEADLINE:<2018-09-07 Fri>
+   - [[file:circuits/hw02.pdf][HW2 problems]]
+
+
+* notes
+** Quantities
+   - charge q (c)
+   - \[ e^{-} = 1.6x10^{-19} c \]
+   - current i (A)(C/s)
+   - voltage v (V)(J/C)
+   - Energy  w (J)
+   - Power   P (W)(J/s)
+     - P > 0 absorbing power
+     - P < 0 supplying power
+** Equations
+   - \[ q(t) = \int_{-\infty}^{t}i(x)dx \]
+   - \[ P = VI \]
+   - \[ P = I^2R \]
+   - \[ P = \frac{V^2}{R} \]
+   - \[ w = CV\] ;;V is J/C
+   - \[ q = i \cdot t \]
