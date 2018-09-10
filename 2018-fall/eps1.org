@@ -1,8 +1,8 @@
-* Assignments (Engineering Paper or Word Template) [0/2]
-** TODO HW1
-   DEADLINE: <2018-09-06 Thu>
+* Assignments (Engineering Paper or Word Template) [1/2]
+** DONE HW1
+   CLOSED: [2018-09-06 Thu 12:06] DEADLINE: <2018-09-06 Thu>
 ** TODO HW2
    DEADLINE:<2018-09-13 Thu>
-* Lab [1/2]
-** TODO Build robot racer
-   DEADLINE: <2018-09-07 Fri>
+* Lab [1/1]
+** DONE Build robot racer
+   CLOSED: [2018-09-07 Fri 14:04] DEADLINE: <2018-09-07 Fri>

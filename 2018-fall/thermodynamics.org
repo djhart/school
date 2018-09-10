@@ -1,10 +1,10 @@
 * Assignments
 ** Homework
-*** TODO HW2
-    DEADLINE:<2018-09-07 Fri>
+*** DONE HW2
+    CLOSED: [2018-09-07 Fri 14:04] DEADLINE:<2018-09-07 Fri>
 ** Reading
-*** TODO Chapter 2 Reading
-    DEADLINE:<2018-09-09 Sun>
+*** DONE Chapter 2 Reading
+    CLOSED: [2018-09-09 Sun 22:18] DEADLINE:<2018-09-09 Sun>
 * Notes
 ** Mechanical energy of flow of fluid
 ** Heat :: form of energy hat is transferred by temp difference

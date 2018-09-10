@@ -1,11 +1,13 @@
-* Assignments (4016 SC) [1/2]
+* Assignments (4016 SC) [2/3]
 ** DONE HW1
    CLOSED: [2018-08-31 Fri 12:59] DEADLINE: <2018-08-31 Fri>
    - [[file:circuits/hw01.pdf][HW1 problems]]
    - due at 1630 in 4016 SC
-** TODO HW2 
-   DEADLINE:<2018-09-07 Fri>
+** DONE HW2 
+   CLOSED: [2018-09-07 Fri 15:09] DEADLINE:<2018-09-07 Fri>
    - [[file:circuits/hw02.pdf][HW2 problems]]
+** TODO HW3
+   DEADLINE: <2018-09-14 Fri>
 
 
 * notes
