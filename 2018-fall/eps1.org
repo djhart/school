@@ -1,8 +1,44 @@
-* Assignments (Engineering Paper or Word Template) [1/2]
+* Assignments (Engineering Paper or Word Template) [5/6]
 ** DONE HW1
    CLOSED: [2018-09-06 Thu 12:06] DEADLINE: <2018-09-06 Thu>
-** TODO HW2
-   DEADLINE:<2018-09-13 Thu>
-* Lab [1/1]
+** DONE HW2
+   CLOSED: [2018-09-13 Thu 21:11] DEADLINE:<2018-09-13 Thu>
+** DONE HW3 
+   CLOSED: [2018-09-24 Mon 12:32] DEADLINE: <2018-09-20 Thu>
+
+   - State "DONE"       from "TODO"       [2018-09-24 Mon 12:32]
+** DONE HW4
+   CLOSED: [2018-10-05 Fri 12:31] DEADLINE: <2018-10-02 Tue>
+
+   - State "DONE"       from "TODO"       [2018-10-05 Fri 12:31]
+** DONE HW5
+   CLOSED: [2018-10-10 Wed 20:40] DEADLINE: <2018-10-09 Tue>
+
+   - State "DONE"       from "TODO"       [2018-10-10 Wed 20:40]
+** TODO HW6
+   DEADLINE: <2018-10-18 Thu>
+
+* Lab [3/5]
 ** DONE Build robot racer
    CLOSED: [2018-09-07 Fri 14:04] DEADLINE: <2018-09-07 Fri>
+** DONE Build spinning motor
+   CLOSED: [2018-09-24 Mon 12:32] DEADLINE: <2018-09-24 Mon>
+   - State "DONE"       from "TODO"       [2018-09-24 Mon 12:32]
+   - Airplane??
+** DONE Ball Sort
+   CLOSED: [2018-10-08 Mon 12:44] DEADLINE: <2018-10-12 Fri>
+   - State "DONE"       from "TODO"       [2018-10-08 Mon 12:44]
+** TODO Ball Sort Paper/Presentation
+   DEADLINE: <2018-10-19 Fri>
+
+** TODO Lego excavator 
+   DEADLINE: <2018-10-29 Mon>
+
+* Exams [1/2]
+** DONE Midterm Exam 1 
+   CLOSED: [2018-09-26 Wed 10:51] SCHEDULED: <2018-09-25 Tue>
+   - State "DONE"       from "TODO"       [2018-09-26 Wed 10:51]
+   - 1830 Shambaugh
+** TODO Midterm Exam 2 
+   SCHEDULED: <2018-10-30 Tue>
+

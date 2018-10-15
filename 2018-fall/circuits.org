@@ -1,16 +1,37 @@
-* Assignments (4016 SC) [2/3]
+* Assignments (4016 SC) [6/8]
 ** DONE HW1
    CLOSED: [2018-08-31 Fri 12:59] DEADLINE: <2018-08-31 Fri>
    - [[file:circuits/hw01.pdf][HW1 problems]]
    - due at 1630 in 4016 SC
-** DONE HW2 
+** DONE HW2
    CLOSED: [2018-09-07 Fri 15:09] DEADLINE:<2018-09-07 Fri>
    - [[file:circuits/hw02.pdf][HW2 problems]]
-** TODO HW3
-   DEADLINE: <2018-09-14 Fri>
+** DONE HW3
+   CLOSED: [2018-09-16 Sun 14:46] DEADLINE: <2018-09-14 Fri>
+** DONE HW4
+   CLOSED: [2018-09-24 Mon 12:32] DEADLINE: <2018-09-21 Fri>
+   - State "DONE"       from "TODO"       [2018-09-24 Mon 12:32]
+** DONE HW5
+   CLOSED: [2018-09-30 Sun 18:48] DEADLINE: <2018-09-28 Fri>
+   - State "DONE"       from "TODO"       [2018-09-30 Sun 18:48]
+** TODO HW6
+   DEADLINE: <2018-10-12 Fri>
+** TODO HW7
+   DEADLINE: <2018-10-19 Fri>
 
-
-* notes
+** DONE Quiz 1 
+   CLOSED: [2018-10-05 Fri 12:31] DEADLINE: <2018-10-02 Tue>
+   - State "DONE"       from "TODO"       [2018-10-05 Fri 12:31]
+* Exams [0/2]
+** TODO Midterm Exam 1
+   SCHEDULED: <2018-10-08 Mon>
+   - LR1 Van Allen 1830-2030
+   - Chapters 1,2,3
+** TODO Midterm Exam 2 
+   SCHEDULED: <2018-11-08 Thu>
+   - LR1 Van Allen 1830-2030
+   - Chapters 4,5,6,7
+* Notes
 ** Quantities
    - charge q (c)
    - \[ e^{-} = 1.6x10^{-19} c \]

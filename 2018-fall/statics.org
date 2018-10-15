@@ -1,13 +1,60 @@
-* Assignments (Monday & Wednesday due dates) [3/6]
+* Homework (Monday & Wednesday due dates) [13/16]
 ** DONE Problem Set #1
    CLOSED: [2018-08-30 Thu 00:55]
 ** DONE Problem Set #2
    CLOSED: [2018-08-30 Thu 00:56]
-** TODO Problem Set #3
-   DEADLINE: <2018-08-29 Wed>
-** TODO Problem Set #4
-   DEADLINE: <2018-09-05 Wed>
+** MISSED Problem Set #3
+   CLOSED: [2018-09-17 Mon 15:00] DEADLINE: <2018-08-29 Wed>
+   - State "MISSED"     from "TODO"       [2018-09-17 Mon 15:00]
+** MISSED Problem Set #4
+   CLOSED: [2018-09-17 Mon 15:00] DEADLINE: <2018-09-05 Wed>
+   - State "MISSED"     from "TODO"       [2018-09-17 Mon 15:00]
 ** DONE Problem Set #5
    CLOSED: [2018-09-10 Mon 14:06] DEADLINE: <2018-09-10 Mon>
-** TODO Problem Set #6
-   DEADLINE: <2018-09-12 Wed>
+** DONE Problem Set #6
+   CLOSED: [2018-09-13 Thu 21:11] DEADLINE: <2018-09-12 Wed>
+** DONE Problem Set #7
+   CLOSED: [2018-09-17 Mon 10:29] DEADLINE: <2018-09-17 Mon>
+** MISSED Problem Set #8
+   CLOSED: [2018-09-19 Wed 12:30] DEADLINE: <2018-09-19 Wed>
+   - State "MISSED"     from "TODO"       [2018-09-19 Wed 12:30]
+** DONE Problem Set #9
+   CLOSED: [2018-09-24 Mon 12:30] DEADLINE: <2018-09-24 Mon>
+   - State "DONE"       from "TODO"       [2018-09-24 Mon 12:30]
+** DONE Problem Set #10
+   CLOSED: [2018-09-26 Wed 10:49] DEADLINE: <2018-09-26 Wed>
+   - State "DONE"       from "TODO"       [2018-09-26 Wed 10:49]
+** MISSED Problem Set #11 
+   CLOSED: [2018-10-01 Mon 15:26] DEADLINE: <2018-10-01 Mon>
+   - State "MISSED"     from "TODO"       [2018-10-01 Mon 15:26]
+** DONE Problem Set #12
+   CLOSED: [2018-10-10 Wed 20:41] DEADLINE: <2018-10-10 Wed>
+   - State "DONE"       from "TODO"       [2018-10-10 Wed 20:41]
+** DONE Problem Set #13
+   CLOSED: [2018-10-15 Mon 12:26] DEADLINE: <2018-10-15 Mon>
+   - State "DONE"       from "TODO"       [2018-10-15 Mon 12:26]
+** TODO Problem Set #14 
+   DEADLINE: <2018-10-17 Wed>
+** TODO Problem Set #15
+   DEADLINE: <2018-10-22 Mon>
+** TODO Problem Set #16
+   DEADLINE: <2018-10-24 Wed>
+
+* Writing Assignment 
+** TODO Writing Draft
+   DEADLINE: <2018-10-17 Wed>
+   - look online for powerpoint
+   - Hanson center will help
+   - DO WELL ON THIS (to offset bad homeworks)
+   - APA (learn bibtex)
+** TODO Writing Final
+   DEADLINE: <2018-11-28 Sun>
+
+* Exams [1/2]
+** DONE Midterm 1
+   CLOSED: [2018-10-05 Fri 12:31] SCHEDULED: <2018-10-03 Wed>
+   - State "DONE"       from "TODO"       [2018-10-05 Fri 12:31]
+   - normal class time
+   - closed book
+** TODO MIdterm 2 
+   SCHEDULED: <2018-11-07 Wed>
