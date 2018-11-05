@@ -1,4 +1,4 @@
-* Homework (Monday & Wednesday due dates) [13/16]
+* Homework (Monday & Wednesday due dates) [19/22]
 ** DONE Problem Set #1
    CLOSED: [2018-08-30 Thu 00:55]
 ** DONE Problem Set #2
@@ -33,16 +33,38 @@
 ** DONE Problem Set #13
    CLOSED: [2018-10-15 Mon 12:26] DEADLINE: <2018-10-15 Mon>
    - State "DONE"       from "TODO"       [2018-10-15 Mon 12:26]
-** TODO Problem Set #14 
-   DEADLINE: <2018-10-17 Wed>
-** TODO Problem Set #15
-   DEADLINE: <2018-10-22 Mon>
-** TODO Problem Set #16
-   DEADLINE: <2018-10-24 Wed>
+** DONE Problem Set #14 
+   CLOSED: [2018-10-18 Thu 15:46] DEADLINE: <2018-10-17 Wed>
+   - State "DONE"       from "TODO"       [2018-10-18 Thu 15:46]
+** DONE Problem Set #15
+   CLOSED: [2018-10-22 Mon 14:31] DEADLINE: <2018-10-22 Mon>
+   - State "DONE"       from "TODO"       [2018-10-22 Mon 14:31]
+** MISSED Problem Set #16
+   CLOSED: [2018-10-24 Wed 12:24] DEADLINE: <2018-10-24 Wed>
+
+   - State "MISSED"     from "TODO"       [2018-10-24 Wed 12:24]
+** DONE Problem Set #17
+   CLOSED: [2018-11-05 Mon 12:37] DEADLINE: <2018-10-29 Mon>
+   - State "DONE"       from "TODO"       [2018-11-05 Mon 12:37]
+** DONE Problem Set #18 
+   CLOSED: [2018-11-05 Mon 12:37] DEADLINE: <2018-10-31 Wed>
+
+   - State "DONE"       from "TODO"       [2018-11-05 Mon 12:37]
+** MISSED Problem Set #19
+   CLOSED: [2018-11-05 Mon 12:38] DEADLINE: <2018-11-05 Mon>
+
+   - State "MISSED"     from "TODO"       [2018-11-05 Mon 12:38]
+** TODO Problem Set #20
+   DEADLINE: <2018-11-07 Wed>
+** TODO Problem Set #21
+   DEADLINE: <2018-11-12 Mon>
+** TODO Problem Set #22
+   DEADLINE: <2018-11-14 Wed>
 
 * Writing Assignment 
-** TODO Writing Draft
-   DEADLINE: <2018-10-17 Wed>
+** DONE Writing Draft
+   CLOSED: [2018-10-18 Thu 15:46] DEADLINE: <2018-10-17 Wed>
+   - State "DONE"       from "TODO"       [2018-10-18 Thu 15:46]
    - look online for powerpoint
    - Hanson center will help
    - DO WELL ON THIS (to offset bad homeworks)

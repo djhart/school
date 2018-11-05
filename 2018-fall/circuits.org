@@ -1,4 +1,4 @@
-* Assignments (4016 SC) [6/8]
+* Assignments (4016 SC) [10/11]
 ** DONE HW1
    CLOSED: [2018-08-31 Fri 12:59] DEADLINE: <2018-08-31 Fri>
    - [[file:circuits/hw01.pdf][HW1 problems]]
@@ -14,17 +14,31 @@
 ** DONE HW5
    CLOSED: [2018-09-30 Sun 18:48] DEADLINE: <2018-09-28 Fri>
    - State "DONE"       from "TODO"       [2018-09-30 Sun 18:48]
-** TODO HW6
-   DEADLINE: <2018-10-12 Fri>
-** TODO HW7
-   DEADLINE: <2018-10-19 Fri>
+** DONE HW6
+   CLOSED: [2018-10-22 Mon 14:30] DEADLINE: <2018-10-12 Fri>
+   - State "DONE"       from "TODO"       [2018-10-22 Mon 14:30]
+** DONE HW7
+   CLOSED: [2018-10-22 Mon 14:30] DEADLINE: <2018-10-19 Fri>
 
+   - State "DONE"       from "TODO"       [2018-10-22 Mon 14:30]
 ** DONE Quiz 1 
    CLOSED: [2018-10-05 Fri 12:31] DEADLINE: <2018-10-02 Tue>
    - State "DONE"       from "TODO"       [2018-10-05 Fri 12:31]
-* Exams [0/2]
-** TODO Midterm Exam 1
-   SCHEDULED: <2018-10-08 Mon>
+** DONE HW8
+   CLOSED: [2018-11-05 Mon 12:37] DEADLINE: <2018-10-26 Fri>
+   - State "DONE"       from "TODO"       [2018-11-05 Mon 12:37]
+** DONE HW9
+   CLOSED: [2018-11-05 Mon 12:38] DEADLINE: <2018-11-02 Fri>
+
+   - State "DONE"       from "TODO"       [2018-11-05 Mon 12:38]
+** TODO HW10
+   DEADLINE: <2018-11-09 Fri>
+   
+
+* Exams [1/2]
+** DONE Midterm Exam 1
+   CLOSED: [2018-10-22 Mon 14:46] SCHEDULED: <2018-10-08 Mon>
+   - State "DONE"       from "TODO"       [2018-10-22 Mon 14:46]
    - LR1 Van Allen 1830-2030
    - Chapters 1,2,3
 ** TODO Midterm Exam 2 

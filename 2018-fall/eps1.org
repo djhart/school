@@ -1,4 +1,4 @@
-* Assignments (Engineering Paper or Word Template) [5/6]
+* Assignments (Engineering Paper or Word Template) [7/7]
 ** DONE HW1
    CLOSED: [2018-09-06 Thu 12:06] DEADLINE: <2018-09-06 Thu>
 ** DONE HW2
@@ -15,10 +15,14 @@
    CLOSED: [2018-10-10 Wed 20:40] DEADLINE: <2018-10-09 Tue>
 
    - State "DONE"       from "TODO"       [2018-10-10 Wed 20:40]
-** TODO HW6
-   DEADLINE: <2018-10-18 Thu>
+** DONE HW6
+   CLOSED: [2018-10-18 Thu 15:45] DEADLINE: <2018-10-18 Thu>
 
-* Lab [3/5]
+   - State "DONE"       from "TODO"       [2018-10-18 Thu 15:45]
+** DONE HW7
+   CLOSED: [2018-11-05 Mon 12:37] DEADLINE: <2018-10-25 Thu>
+   - State "DONE"       from "TODO"       [2018-11-05 Mon 12:37]
+* Lab [4/5]
 ** DONE Build robot racer
    CLOSED: [2018-09-07 Fri 14:04] DEADLINE: <2018-09-07 Fri>
 ** DONE Build spinning motor
@@ -28,17 +32,24 @@
 ** DONE Ball Sort
    CLOSED: [2018-10-08 Mon 12:44] DEADLINE: <2018-10-12 Fri>
    - State "DONE"       from "TODO"       [2018-10-08 Mon 12:44]
-** TODO Ball Sort Paper/Presentation
-   DEADLINE: <2018-10-19 Fri>
+** DONE Ball Sort Paper/Presentation
+   CLOSED: [2018-10-22 Mon 14:30] DEADLINE: <2018-10-19 Fri>
 
-** TODO Lego excavator 
-   DEADLINE: <2018-10-29 Mon>
-
-* Exams [1/2]
+   - State "DONE"       from "TODO"       [2018-10-22 Mon 14:30]
+** TODO Lego excavator [2/2]
+*** DONE Powerpoint
+   CLOSED: [2018-11-05 Mon 12:37] DEADLINE: <2018-10-29 Mon>
+   - State "DONE"       from "TODO"       [2018-11-05 Mon 12:37]
+   - tell bai pieces missing
+*** DONE Demonstration
+    CLOSED: [2018-11-05 Mon 12:38] DEADLINE: <2018-11-02 Fri>
+    
+    - State "DONE"       from "TODO"       [2018-11-05 Mon 12:38]
+* Exams [2/2]
 ** DONE Midterm Exam 1 
    CLOSED: [2018-09-26 Wed 10:51] SCHEDULED: <2018-09-25 Tue>
    - State "DONE"       from "TODO"       [2018-09-26 Wed 10:51]
    - 1830 Shambaugh
-** TODO Midterm Exam 2 
-   SCHEDULED: <2018-10-30 Tue>
-
+** DONE Midterm Exam 2 (final)
+   CLOSED: [2018-11-05 Mon 12:37] SCHEDULED: <2018-10-30 Tue>
+   - State "DONE"       from "TODO"       [2018-11-05 Mon 12:37]

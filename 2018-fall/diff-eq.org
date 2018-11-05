@@ -1,4 +1,4 @@
-* Assignments [6/9]
+* Assignments [10/11]
 ** MISSED HW1 [0/3]
    CLOSED: [2018-09-17 Mon 14:56] DEADLINE: <2018-08-29 Wed>
    - State "MISSED"     from "TODO"       [2018-09-17 Mon 14:56]
@@ -28,12 +28,21 @@
 ** MISSED HW6
    CLOSED: [2018-10-05 Fri 12:31] DEADLINE: <2018-10-03 Wed>
    - State "MISSED"     from "TODO"       [2018-10-05 Fri 12:31]
-** TODO HW7
-   DEADLINE: <2018-10-10 Wed>
-** TODO HW8
-   DEADLINE: <2018-10-17 Wed>
-** TODO HW9
-   DEADLINE: <2018-10-24 Wed>
+** MISSED HW7
+   CLOSED: [2018-10-22 Mon 14:30] DEADLINE: <2018-10-10 Wed>
+   - State "MISSED"     from "TODO"       [2018-10-22 Mon 14:30]
+** MISSED HW8
+   CLOSED: [2018-10-22 Mon 14:30] DEADLINE: <2018-10-17 Wed>
+   - State "MISSED"     from "TODO"       [2018-10-22 Mon 14:30]
+** MISSED HW9
+   CLOSED: [2018-10-24 Wed 12:24] DEADLINE: <2018-10-24 Wed>
+
+   - State "MISSED"     from "TODO"       [2018-10-24 Wed 12:24]
+** MISSED HW10
+   CLOSED: [2018-11-05 Mon 12:37] DEADLINE: <2018-10-31 Wed>
+   - State "MISSED"     from "TODO"       [2018-11-05 Mon 12:37]
+** TODO HW11
+   DEADLINE: <2018-11-07 Wed>
 
 * Quizzes [3/3]
 ** DONE Quiz 1
@@ -50,7 +59,7 @@
    CLOSED: [2018-10-05 Fri 12:30] SCHEDULED: <2018-10-05 Fri>
 
    - State "DONE"       from "TODO"       [2018-10-05 Fri 12:30]
-* Exams [1/2]
+* Exams [2/2]
 ** DONE Midterm Exam 1
    CLOSED: [2018-09-30 Sun 20:06] SCHEDULED: <2018-09-26 Wed>
    - State "DONE"       from "TODO"       [2018-09-30 Sun 20:06]
@@ -58,7 +67,8 @@
    - 1830 W290 CB
    - closed book, no notes, no calc
    - 49/60 81.67% :: 
-** TODO Midterm Exam 2
-   SCHEDULED: <2018-10-31 Wed>
+** DONE Midterm Exam 2
+   CLOSED: [2018-11-05 Mon 12:37] SCHEDULED: <2018-10-31 Wed>
+   - State "DONE"       from "TODO"       [2018-11-05 Mon 12:37]
    - Chapters 3, 4, 6.1
    - section 103

@@ -1,4 +1,4 @@
-* Assignments [7/10]
+* Assignments [9/10]
 ** DONE HW1 Ch. 1 and 2 
    CLOSED: [2018-08-30 Thu 00:47] DEADLINE: <2018-09-01 Sat>
 ** DONE Lab 2 take-home
@@ -19,14 +19,18 @@
 ** DONE HW7
    CLOSED: [2018-10-15 Mon 12:26] DEADLINE: <2018-10-13 Sat>
    - State "DONE"       from "TODO"       [2018-10-15 Mon 12:26]
-** TODO HW8
-   DEADLINE: <2018-10-20 Sat>
-** TODO HW9 
-   DEADLINE: <2018-10-27 Sat>
+** DONE HW8
+   CLOSED: [2018-10-22 Mon 14:30] DEADLINE: <2018-10-20 Sat>
+   - State "DONE"       from "TODO"       [2018-10-22 Mon 14:30]
+** DONE HW9 
+   CLOSED: [2018-11-05 Mon 12:37] DEADLINE: <2018-10-27 Sat>
 
-** TODO Lab Paper [0/4]
-*** TODO Choose topic
-    DEADLINE: <2018-10-10 Wed>
+   - State "DONE"       from "TODO"       [2018-11-05 Mon 12:37]
+** TODO Lab Paper [1/4]
+*** DONE Choose topic
+    CLOSED: [2018-10-22 Mon 14:30] DEADLINE: <2018-10-10 Wed>
+    - State "DONE"       from "TODO"       [2018-10-22 Mon 14:30]
+    - Karst Formations - Madagascar and South China esp.
 *** TODO Get sources [/]
 **** [ ]
 **** [ ]

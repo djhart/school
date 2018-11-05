@@ -1,5 +1,5 @@
 * Assignments
-** Homework [6/8]
+** Homework [9/11]
 *** DONE HW2
     CLOSED: [2018-09-07 Fri 14:04] DEADLINE:<2018-09-07 Fri>
 *** DONE HW3 
@@ -16,12 +16,22 @@
 *** DONE HW7
     CLOSED: [2018-10-15 Mon 12:26] DEADLINE: <2018-10-12 Fri>
     - State "DONE"       from "TODO"       [2018-10-15 Mon 12:26]
-*** TODO HW8 
-    DEADLINE: <2018-10-19 Fri>
-*** TODO HW9
-    DEADLINE: <2018-10-26 Fri>
+*** DONE HW8 
+    CLOSED: [2018-10-18 Thu 15:47] DEADLINE: <2018-10-19 Fri>
+    - State "DONE"       from "TODO"       [2018-10-18 Thu 15:47]
+*** DONE HW9
+    CLOSED: [2018-11-05 Mon 12:37] DEADLINE: <2018-10-26 Fri>
+    - State "DONE"       from "TODO"       [2018-11-05 Mon 12:37]
+*** DONE HW10
+    CLOSED: [2018-11-05 Mon 12:38] DEADLINE: <2018-11-02 Fri>
 
-** Reading [8/10]
+    - State "DONE"       from "TODO"       [2018-11-05 Mon 12:38]
+*** TODO HW11 
+    DEADLINE: <2018-11-09 Fri>
+*** TODO HW12
+    DEADLINE: <2018-11-16 Fri>
+
+** Reading [11/12]
 *** DONE Week 2 Reading
     CLOSED: [2018-09-09 Sun 22:18] DEADLINE:<2018-09-02 Sun>
 *** MISSED Week 3 Reading 
@@ -43,20 +53,28 @@
     - State "DONE"       from "TODO"       [2018-10-08 Mon 12:35]
 *** DONE Week 8 Reading
     CLOSED: [2018-10-15 Mon 12:26] DEADLINE: <2018-10-14 Sun>
-    
     - State "DONE"       from "TODO"       [2018-10-15 Mon 12:26]
-*** TODO Week 9 Reading
-    DEADLINE: <2018-10-21 Sun>
-*** TODO Week 10 Reading
-    DEADLINE: <2018-10-28 Sun>
+*** DONE Week 9 Reading
+    CLOSED: [2018-10-22 Mon 14:31] DEADLINE: <2018-10-21 Sun>
+    - State "DONE"       from "TODO"       [2018-10-22 Mon 14:31]
+*** DONE Week 10 Reading
+    CLOSED: [2018-11-05 Mon 12:37] DEADLINE: <2018-10-28 Sun>
+    - State "DONE"       from "TODO"       [2018-11-05 Mon 12:37]
+*** DONE Week 11 Reading
+    CLOSED: [2018-11-05 Mon 12:38] DEADLINE: <2018-11-04 Sun>
 
-* Exams [1/3]
+    - State "DONE"       from "TODO"       [2018-11-05 Mon 12:38]
+*** TODO Week 12 Reading 
+    DEADLINE: <2018-11-11 Sun>
+
+* Exams [2/3]
 ** DONE Midterm Exam 1
    CLOSED: [2018-09-26 Wed 10:51] SCHEDULED: <2018-09-24 Mon>
    - State "DONE"       from "TODO"       [2018-09-26 Wed 10:51]
    - 1830 W10 PBB
-** TODO Midterm Exam 2
-   DEADLINE: <2018-10-18 Thu>
+** DONE Midterm Exam 2
+   CLOSED: [2018-10-22 Mon 14:30] DEADLINE: <2018-10-18 Thu>
+   - State "DONE"       from "TODO"       [2018-10-22 Mon 14:30]
    - 1830 C20 PC
 ** TODO Midterm Exam 3
    DEADLINE: <2018-11-15 Thu>
@@ -107,3 +125,7 @@
 *** Heat and work are associated with a process, not a state
 *** Q and W are path functions (magnitude depends on the path as well as the end states)
 *** differential is represented by \[\delta Q \; or \; \delta W\] not dQ or dW
+** Entropy
+*** Entropy Balance Equation
+**** DeltaS_system = S_gen + Sigma Q/T + Sigmam_is_i - Sigmam_es_e
+**** DeltaS_system = S_gen + Sigma Q/T  ;; closed system

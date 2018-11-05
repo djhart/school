@@ -1,0 +1,8 @@
+* Appointments
+** TODO Meet with advisor
+   DEADLINE: <2018-11-06 Tue>
+   - 0930
+** TODO Meet with Zhang
+   DEADLINE: <2018-11-06 Tue>
+   - 10-12
+   - find out about midterm - why so bad?
