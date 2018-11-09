@@ -1,8 +1,64 @@
+* Good themes
+** darkburn ;; really goood no bad highlights either
+** Badwolf ;; really good
+** Monokai ;; good normal highlights - kind of yellowy
+** soft-stone ;; white background - good no problem highlights
+** Tango dark ;; really bright highlight line but not bad
+** tao-yang ;; like softstone very pleasant
+** Tao-yin ;; nice monochrome black also very pleasant weird menu but not bad
+** Zen and art ;; some levels hard to see - dark blue on black bad highlights
+** Zenburn ;; great -- really good 
+** Wombat ;; Very nice bad highlight though 
+** Wilson ;; very nice bad highlight though 
 * Appointments
-** TODO Meet with advisor
-   DEADLINE: <2018-11-06 Tue>
-   - 0930
+** DONE Meet with advisor
+   CLOSED: [2018-11-07 Wed 12:35] DEADLINE: <2018-11-06 Tue>
+   - State "DONE"       from "TODO"       [2018-11-07 Wed 12:35]
+   - 0930 4655 SC
+   - Research
+     - At latest begin by summer 2019
+     - Summer more likely to be paid
+     - look at website, find people, try to meet with them in person
+     - need 3.0 bare minimum
+     - advisor will help - seems like good guy
+     - find a journal to start reading
+     - do not be afraid of unpaid work during spring semester, need to get name out - become known as good researcher (doer)
 ** TODO Meet with Zhang
-   DEADLINE: <2018-11-06 Tue>
-   - 10-12
+   DEADLINE: <2018-11-13 Tue>
+   - 10-12 25E MLH
    - find out about midterm - why so bad?
+* TO DO 
+** Friday 11/9 [/]
+*** [ ] Clean 
+**** [ ] kitchen
+**** [ ] office
+**** [ ] vaccuum
+**** [ ] mop
+*** [ ] Earth Science and Thermo reading
+*** [ ] start diff eq 
+*** [ ] yoga > 30 min 
+*** [ ] make candles
+** Saturday 11/10 [/] 
+*** [ ] fix bike
+**** BB
+**** brakes
+**** crank
+**** lubricate
+*** [ ] glue shelves / screw
+*** [ ] mechanics HW 
+*** [ ] yoga > 30 min 
+*** [ ] pull ups / ring work
+*** [ ] diff eq HW 
+*** [ ] study thermodynamics
+*** [ ] go to work 2-3 hrs.
+** Sunday 11/11 [/]
+*** [ ] Sell backpack
+*** [ ] go to broken spoke see about crank bolt
+*** [ ] yoga > 30 min 
+*** [ ] push ups / dips / handstand work
+*** [ ] study thermodynamics
+*** [ ] study diff eq 
+*** [ ] meet with derrick about robot
+*** [ ] clean kitchen
+*** [ ] go to work ? 
+*** [ ] start on circuits hw 

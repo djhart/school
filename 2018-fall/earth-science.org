@@ -45,6 +45,7 @@
    CLOSED: [2018-09-30 Sun 20:06] SCHEDULED: <2018-09-27 Thu>
    - State "DONE"       from "TODO"       [2018-09-30 Sun 20:06]
    - normal class time
-** TODO Midterm Exam 2
-   SCHEDULED: <2018-11-06 Tue>
+** DONE Midterm Exam 2
+   CLOSED: [2018-11-07 Wed 12:32] SCHEDULED: <2018-11-06 Tue>
 
+   - State "DONE"       from "TODO"       [2018-11-07 Wed 12:32]

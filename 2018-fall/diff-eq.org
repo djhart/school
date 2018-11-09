@@ -1,4 +1,4 @@
-* Assignments [10/11]
+* Assignments [11/12]
 ** MISSED HW1 [0/3]
    CLOSED: [2018-09-17 Mon 14:56] DEADLINE: <2018-08-29 Wed>
    - State "MISSED"     from "TODO"       [2018-09-17 Mon 14:56]
@@ -41,8 +41,12 @@
 ** MISSED HW10
    CLOSED: [2018-11-05 Mon 12:37] DEADLINE: <2018-10-31 Wed>
    - State "MISSED"     from "TODO"       [2018-11-05 Mon 12:37]
-** TODO HW11
-   DEADLINE: <2018-11-07 Wed>
+** MISSED HW11
+   CLOSED: [2018-11-07 Wed 12:37] DEADLINE: <2018-11-07 Wed>
+
+   - State "MISSED"     from "TODO"       [2018-11-07 Wed 12:37]
+** TODO HW12
+   DEADLINE: <2018-11-14 Wed>
 
 * Quizzes [3/3]
 ** DONE Quiz 1

@@ -32,17 +32,17 @@
 
    - State "DONE"       from "TODO"       [2018-11-05 Mon 12:38]
 ** TODO HW10
-   DEADLINE: <2018-11-09 Fri>
+   DEADLINE: <2018-11-16 Fri>
    
-
-* Exams [1/2]
+* Exams [2/2]
 ** DONE Midterm Exam 1
    CLOSED: [2018-10-22 Mon 14:46] SCHEDULED: <2018-10-08 Mon>
    - State "DONE"       from "TODO"       [2018-10-22 Mon 14:46]
    - LR1 Van Allen 1830-2030
    - Chapters 1,2,3
-** TODO Midterm Exam 2 
-   SCHEDULED: <2018-11-08 Thu>
+** DONE Midterm Exam 2 
+   CLOSED: [2018-11-09 Fri 15:28] SCHEDULED: <2018-11-08 Thu>
+   - State "DONE"       from "TODO"       [2018-11-09 Fri 15:28]
    - LR1 Van Allen 1830-2030
    - Chapters 4,5,6,7
 * Notes
@@ -62,3 +62,7 @@
    - \[ P = \frac{V^2}{R} \]
    - \[ w = CV\] ;;V is J/C
    - \[ q = i \cdot t \]
+** AC
+*** Time domain -> frequency domain
+*** find phasors and take -> time domain
+*** know how to go from complex to polar (calculator prob can)

@@ -55,10 +55,8 @@
 
    - State "MISSED"     from "TODO"       [2018-11-05 Mon 12:38]
 ** TODO Problem Set #20
-   DEADLINE: <2018-11-07 Wed>
-** TODO Problem Set #21
    DEADLINE: <2018-11-12 Mon>
-** TODO Problem Set #22
+** TODO Problem Set #21
    DEADLINE: <2018-11-14 Wed>
 
 * Writing Assignment 
@@ -72,11 +70,12 @@
 ** TODO Writing Final
    DEADLINE: <2018-11-28 Sun>
 
-* Exams [1/2]
+* Exams [2/2]
 ** DONE Midterm 1
    CLOSED: [2018-10-05 Fri 12:31] SCHEDULED: <2018-10-03 Wed>
    - State "DONE"       from "TODO"       [2018-10-05 Fri 12:31]
    - normal class time
    - closed book
-** TODO MIdterm 2 
-   SCHEDULED: <2018-11-07 Wed>
+** DONE MIdterm 2 
+   CLOSED: [2018-11-09 Fri 15:28] SCHEDULED: <2018-11-07 Wed>
+   - State "DONE"       from "TODO"       [2018-11-09 Fri 15:28]
