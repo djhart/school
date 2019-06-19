@@ -1,0 +1,374 @@
+* TODO MAKE CHEATSHEET
+  DEADLINE: <2019-02-15 Fri>
+
+* Assignments
+** DONE HW1
+   CLOSED: [2019-01-22 Tue 00:32] DEADLINE: <2019-01-25 Fri>
+   - State "DONE"       from "TODO"       [2019-01-22 Tue 00:32]
+** DONE HW2
+   CLOSED: [2019-02-01 Fri 11:32] DEADLINE: <2019-02-01 Fri>
+   - State "DONE"       from "TODO"       [2019-02-01 Fri 11:32]
+** DONE HW3
+   CLOSED: [2019-02-11 Mon 13:15] DEADLINE: <2019-02-08 Fri>
+** DONE HW4
+   CLOSED: [2019-02-15 Fri 12:39] DEADLINE: <2019-02-15 Fri>
+   - State "DONE"       from "TODO"       [2019-02-15 Fri 12:39]
+** TODO HW5
+   DEADLINE: <2019-02-22 Fri>
+** TODO HW6
+   DEADLINE: <2019-03-01 Fri>
+** TODO HW7
+   DEADLINE: <2019-03-08 Fri>
+** TODO HW8
+   DEADLINE: <2019-03-15 Fri>
+** TODO HW9
+   DEADLINE: <2019-03-22 Fri>
+** TODO HW10
+   DEADLINE: <2019-03-29 Fri>
+** TODO HW11
+   DEADLINE: <2019-04-05 Fri>
+** TODO HW12
+   DEADLINE: <2019-04-12 Fri>
+** TODO HW13
+   DEADLINE: <2019-04-19 Fri>
+** TODO HW14
+   DEADLINE: <2019-04-26 Fri>
+** TODO HW15
+   DEADLINE: <2019-05-03 Fri>
+* Exams
+** TODO Exam 1 (in class)
+   DEADLINE: <2019-02-18 Mon>
+** TODO Exam 2 (in class)
+   DEADLINE: <2019-04-01 Mon>
+* Notes
+** Chapter 2 :: Probability
+*** Probability Rules
+    - $P(S)=1;\ P(\varnothing)=0$
+    - For any event A $0\leq P(A) \leq 1$
+    - $P(A^c)=1-P(A)$ (Complement Rule)
+    - Addition Rule for mutually exclusive events :: If A and B are disjoint then $P(A\cupB)=P(A)+P(B)$
+    - General Addition Rule :: $P(A\cup B)=P(A)+P(B)-P(A\cap B)$
+    - Product Rule for Independent Events :: If A and B are independent then $P(A\cap B)=P(A)P(B)$
+    - Conditional Probability :: The probability that event A occurs given event B has occured \[P(A|B)=\frac{P(A\cap B)}{P(B)}\], provided $P(B)\neq0$
+    - General Product Rule :: For any events A and B, $P(A\cap B)=P(A)P(B|A)=P(B)P(A|B)$
+*** Definitions/Theorems
+    - Random Experiment :: can result in one of several random outcomes
+    - Sample Space :: set of all possible outcomes S
+    - Discrete :: S is discrete if it contains finite or countable infinite # of outcomes
+    - Continous :: S is continuous if it contains an interval
+    - Event :: subset of S
+               Example: roll a die - some events: roll a 2, A={2}; roll an odd, B={1,3,5}
+    - Multiplication Rule :: Operation has k steps with $n_k$ ways to complete $k^th$ step, outcomes \[n_1*n_2*...*n_k\]
+         Example: license plates lll nnn
+         a) how many possible plates? $(26)(26)(26)(10)(10)(10)=17,576,000$
+         b) how many without repeats? $(26)(25)(24)(10)(9)(8)$
+         c) if first letter is A and last number is even? \[(1)(26)^2(10)^2(5)\]
+         d) same as c, without repeats? $(1)(25)(24)(9)(8)(5)$
+    - Theorem :: the number of permutations of N distinct elements is N!
+                 Example: 26 letters => \[26! \ permutations\, = 4.03x10^{26}\]
+    - Theorem :: the number of ways r elements can be selected from n distinct elements with regard to order is \[_nP_r=P^n_r=\frac{n!}{(n-r)!}\]
+                 Example: 4 students {a,b,c,d}, 1 selected for president, 1 for vp \[(ab \neq  ba)\]
+                 \[_4P_2 = \frac{4!}{(4-2)!} = 12\]
+    - Theorem :: the number of ways r elements can be selected from n distinct elements without regard to order is \[ _nC_r=C^n_r={n \choose x}=\frac{n!}{r!(n-r)!} \]
+                 Example: 4 students {a,b,c,d}, choose 2 for trip (ab=ba) -> \[\frac{4!}{2!(4-2)!} =\frac{24}{4}=6\]
+                 \[{n\choose r} = \frac{_nP_r}{n!}\]
+                 Example: Powerball. 69 white => select 5; 26 red -> select 1; ${26 \choose 1}{69 \choose 5} = 292,201,338$
+    - Theorem :: With n objects of k types, $n_1$ of type 1 etc., the number of permutations is \[\frac{n!}{n_1!(n_2!)\ldots(n_k!)}\]
+    - Probability :: the proportion of times event occurs in the long run
+    - Theorem :: if S contains N equally likely outcomes, then
+                 1) probability of any outcome is \[\frac{1}{N}\]
+                 2) probability of event A is \[P(A) = \frac{\#\ of \ outcomes\ in \ A}{N}\]
+                 Example: roll die 2 times
+                 a) S = {11, 21, ... , 66} equally likely
+                 b) A = product of two rolls equals six -> \[P(A)=\frac{4}{36}=\frac{1}{9}\]
+                 c) B = absolute difference is two -> \[P(B) = \frac{8}{36} = \frac{2}{9}\]
+    - Theorem :: suppose S is discrete. The probability of A is the sum of the probability of all outcomes in A.
+                 Example: 4-pack of cans, how many dented? S = {0,1,...,4}
+                 | # | Probability |
+                 |---+-------------|
+                 | 0 |          .8 |
+                 | 1 |          .1 |
+                 | 2 |         .05 |
+                 | 3 |         .02 |
+                 | 4 |         .03 |
+                 |---+-------------|
+                 A = 3 or fewer
+                 P(A) = .8 + .1 + .05 + .02 = .97
+    - Intersection :: "and" $\cap$  ##### add venn diagrams from notes (use scimax, inkscape, tikz, etc)
+    - Union :: "or" $\cup$
+    - Complement :: "Not A" $A^c = A'$
+                    Example: roll n die  ##### Change to latex table or get rid of table altogether
+                    | A = roll 2    | {2}                    |
+                    | B = roll odd  | {1,3,5}                |
+                    | C = roll even | {2,4,6}                |
+                    | $A\cap C$     | {2}                    |
+                    | $A\cup C$     | {2,4,6}                |
+                    | $B^c$         | {2,4,6}                |
+                    | $B\cap C$     | $\{\}\ =\ \varnothing$ |
+                    | $B\cupC$      | S                      |
+    - Mutual Exlusivity :: Two events A and B are mutually exclusive if $A\capB = \varnothing$
+    - Independence :: Two events are independent if the occurence of one event does not influence the probability of the other event
+                      Example: Bowl -> 3 red, 2 white chips; randomly select 2 chips with replacement
+                      A = red first; B = red second -> independent because of the replacement
+    - Example :: Heart attack vs. aspirin  ## there are two more if you want to add later
+                 |---------+-----+-------+-------|
+                 |         |   H |    H' | Total |
+                 |---------+-----+-------+-------|
+                 | Placebo | 189 | 10845 | 11034 |
+                 | Aspirin | 104 | 10933 | 11037 |
+                 | Total   | 293 | 21778 | 22071 |
+                 |---------+-----+-------+-------|
+                 a) \[P(H)=\frac{293}{22071}=.0133\]
+
+                 b) \[P(H\cap A)=\frac{104}{22071}=.00471\]
+
+                 \[P(H\cap A)=P(H)P(A|H)=\frac{293}{22071}\left(\frac{104}{293}\right)=\frac{104}{22071}\]
+
+                 \[P(H\cap A)=P(A)P(H|A)=\frac{11037}{22071}\left(\frac{104}{11037}\right)=\frac{104}{22071}\]
+
+                 c) \[(P(H|A)=\frac{104}{11037}=.0094\]
+
+                 \[(P(H|A)=\frac{P(H\cap A)}{P(A)} = \frac{104}{22071}\left(\frac{22071}{11037}\right)=\frac{104}{11037}\]
+    - Example :: Bowl has 2 red and 3 white chips -> randomly select 2 chips wihout replacement
+                 a)\[P(R_1\cap W_2)=P(R_1)P(W_2|R_1)=\frac{2}{5}\frac{3}{4}\]
+                 b)\[P(R_2|W_1)=\frac{2}{4}\]
+                 c)\[P(R_1\cap W_1) = 0\]
+                 d) find probability of exactly one red chip
+                 \[P[(R_1\cap W_2)\cup (W_1\cap R_2)] = P(R_1\cap W_2) + P(W_1\cap R_2) = P(R_1)P(W_2|R_1) + P(W_1)P(R_2|W_1)\]
+                 e) $P(R_1\cup R_2)=P(R_1)+P(R_2)-P(R_1\cap R_2)=P(R_1)+P(R_2)-P(R_1)P(R_2|R_1)$
+    - Theorem :: Mathematical test for independence -> Events are A and B are independent IFF ## combine with definition
+                 a) P(A|B) = P(A)
+                 b) P(B|A) = P(B)
+                 c) $P(A\cap B) = P(A)P(B)$
+    - Theorem :: Law of Total Probability
+                 Suppose events $E_1,\ldots, E_n$ form a partition, i.e.
+                 a) $E_i \cap E_j = \varnothing \ \forall i\neq j$ (no overlap)
+                 b) $E_1 \cup E_2 \cup \ldots\cup E_n = S$
+                 For any event A, $P(A) = P\[(E_1\cap A)\cup (E_2 \cap A)\ldots\cup (E_n\cap A)\]$
+    - Theorem :: Baye's Theorem
+                 Suppose events $E_1,\ldots, E_n$ form a partition,
+                 Then for any event A $(P(A)\neq 0)$
+                 $P(E_i|A)=\frac{P(E_i\cap A)}{P(A)}$
+                 \[P(E_i|A)=\frac{P(E_i)P(A|E_i)}{\sum_{j=1}^{n}P(E_j)P(A|E_j)}\]
+    - Example :: Have 3 bowls
+                 | Bowl | Red | White |
+                 |------+-----+-------|
+                 |    1 |   1 |     4 |
+                 |    2 |   2 |     1 |
+                 |    3 |   4 |     1 |
+                 |------+-----+-------|
+                 Randomly select a bowl, randomly select a chip
+                 a) find probability that you select a red chip.
+                 \[\begin{align}
+                 P(R)&=P[(B_1\cap R)\cup (B_2\cap R)\cup (B_3\cap R)]\\
+                 &=\sum_{i=1}^3 P(B_i\cap R)\\
+                 &=\sum_{i=1}^3 P(B_i)P(R|B_i)\\
+                 &=\frac{1}{3}(\frac{1}{5})+\frac{1}{3}(\frac{2}{3})+\frac{1}{3}(\frac{4}{5})=\frac{5}{9}
+                 \end{align}\]
+                 b) Given chip was red find probability that it came from b3
+                 \[\begin{align}
+                 P(B_3|R)&=\frac{P(B_3\cap R)}{P(R)}\\
+                 &=\frac{P(B_3)P(R|B_3)}{P(R)}\\
+                 &=\frac{\frac{1}{3}\frac{4}{5}}{\frac{5}{9}} = \frac{12}{25}= .48
+                 \end{align}\]
+                 c) Given chip was red find probability that it came from b2
+                 \[\begin{align}
+                 P(B_2|W)&=\frac{P(W\cap B_2}{P(W)}\\
+                 &=\frac{\frac{1}{3}\frac{1}{3}}{\frac{4}{9}}=\frac{1}{4}=.25
+                 \end{align}\]
+
+                 - Example :: A Boy
+                              | pocket | #blue | #white |
+                              |--------+-------+--------|
+                              | left   |     5 |      4 |
+                              | right  |     4 |      5 |
+                              |--------+-------+--------|
+                              Randomly select a marble from left and transfer to right
+                              Randomly select a marble from right
+                              a) Find probability of $B_r$
+                              \[\begin{align}
+                              P(B_r)&=P(B_l\cap B_r)&+&P(W_l\cap B_r)\\
+                              &=P(B_l)P(B_r|B_l)&+&P(W_l)P(B_r|W_l)\\
+                              &=\frac{5}{9}\frac{5}{10}&+&\frac{4}{9}\frac{4}{10}\\
+                              &=\frac{41}{90}
+                              \end{align}\]
+                              b) Find probability of blue drawn from left given a blue is drawn from right
+                              \[\begin{align}
+                              P(B_l|B_r)&=\frac{P(B_l\cap B_r)}{P(B_r)}\\
+                              &=\frac{P(B_l)P(B_r|B_l)}{P(B_r)}\\
+                              &=\frac{\frac{5}{9}\frac{5}{10}}{\frac{41}{90}}\\
+                              &=\frac{25}{41}=0.610
+                              \end{align}\]
+** TODO Chapter 3 :: Random Variables
+   - Random variable :: Function that assigns a real number to each outcome in S
+        *X = random variable (changes from experiment to experiment)
+        *x = number ( possible value of X)
+   - Discrete random variable :: Discrete random variable can assume finite or countably infinite
+   - Continous random variable :: can assume any number in interval
+   - Example :: flip a coin twice
+                S={HH,HT,TH,TT} -> equally likely
+                Let x = number heads
+                a) What is the support of x?
+                $S_x=\{0,1,2\}$
+                b) Find probability mass function of X (Probability distribution of X)
+                | x           |   0 |   1 |   2 |
+                | f(x)=P(X=x) | 1/4 | 1/2 | 1/4 |
+                Formulaic: $f(x)=P(X=x)={2\choose x}\frac{1}{4}$
+                NOTE: suppose X is discrete random variable, then
+                a) $f(x)> 0 \ \forall \ x \in S_x$
+                b) \[\sum_{x\in S_x}{}f(x) = 1\]
+   - Example :: Bowl has 6 chips: 2->"2", 4->"4"
+                Randomly select 2 chips w/o replacement
+                let X = sum of the 2 chips -> s$S_x=\{4,6,8\}$
+                a)find probability mass function of x
+                | x           |    4 |     6 |     8 |
+                | f(x)=P(X=x) | 2/30 | 16/30 | 12/30 |
+                b)
+                \[\begin{align}
+                P(x\geq 6|x\leq 6)&=\frac{16}{18}\\
+                &=\frac{P(x\geq 6, x\leq 6)}{P(x\leq 6}\\
+                &=\frac{P(x=6)}{P(x\leq 6}
+                \end{align}\]   ;; "," = "and"
+   - Cumulative Distribution Function :: CDF of a discrete random variable is $F(x)=P(X\leq x)=\sum_{x_i \leq x}^{}f(x) \qquad -\infty < x < \infty$
+        where \[\begin{align}&1) \ \lim_{x\to -\infty}F(x)=0\\&2) \ \lim_{x\to \infty}F(x)=1\\ &3) \ if x\leq y\  then\  F(x)\leq F(y)\end{align}\]
+   - Example :: flip a coin 2 times, x = # heads
+                | x    |   0 |   1 |   2 |
+                | f(x) | 1/4 | 1/2 | 1/4 |
+                a) find CDF of x:
+
+                \[F(x) = P(X\leq x)=\begin{cases}0\quad &x<0\\\frac{1}{4}&0\leq x <1\\\frac{3}{4}&1\leq x <2\\1 &2\leq x\end{cases}\]
+
+                b)$P(x\leq1)=F(1)=\frac{3}{4}$
+                c)$P(x>1)=1-F(1)=\frac{1}{4}$
+                d)$P(x\leq 0.7)=\frac{1}{4}$
+   - Example :: suppose x has pmf f(x)=x/6 for x=1,2,3
+                a) find cdf of x
+                \[F(x)=\begin{cases}0\quad &x<1\\\frac{1}{6}&1\leq x<2\\ \frac{1}{2}&2\leq x <3\\ 1&3\leq x\end{cases}\]
+                b) $P(x<2)=F(2^{-})=\frac{1}{6}$
+
+   - Expected Value :: if x is a discrete random variable, $\mu = E(X)=\sum_{x\in S_x}^{}xf(x)$ -> lon run average
+                       if h(x) is a function of X, then $E[h(X)]=\sum_{x\in S_x}^{}h(x)f(x)$
+   - Variance :: variance of X is
+                 \[\begin{align}\sigma^2=Var(X)&=E[(X-\mu)^2]\\&=\sum_{x\in S_x}^{}(x-\mu)^2f(x)\end{align}\]
+                 descirbes variability in units squared; represents the typical squared deviation from the mean
+   - Standard Deviation :: standard deviation of X is $\sigma=SD(X)=\sqrt{Var(x)}$
+        descirbes variability in units; represents the typical deviation from the mean
+
+   - Example :: Have battery "2-pack" Let X=#low voltage
+                Known the pmf of x is
+                #+PLOT: ind:1 type:2d with:hist set:"xrange [0:5]" set:"yrange [0:1]"
+                | x | f(x) |
+                |---+------|
+                | 0 |   .7 |
+                | 1 |   .2 |
+                | 2 |   .1 |
+
+
+
+
+   NOTE: Look at org manual to plot this
+   a) $\mu=E(x)=\sum_{x\in S_x}^{}xf(x)=0(.7)+1(.2)+2(.1)=0.4$
+   b) \[\begin{align}\sigma^2&=var(X)=E[(X-\mu)]^2\\&=\sum_{x\in S_x}^{}(x-\mu)^2 f(x)\\&=(0-.4)^2(.7)+(1-.4)^2(.2)+(2-.4)^2(.1)\\&=.44 \end{align}\]$
+   c) $\sigma=SD(X)=\sqrt{var(X)}=\sqrt{.44}=0.663$
+   d) $E(X^2)=\sum_{x\in S_x}^{}x^2f(x)=0^2(.7)+1^2(.2)+2^2(.1)=0.6$
+   - Theorem :: Computational Formula for the variance
+                $var(X)=E(X^2)-\mu^2=E(X^2)-(E(X))^2$
+
+                proof \[\begin{align}var(X)&=E[(x-\mu)^2\\&=\sum_{s\in S)x}^{}(x-\mu)^2f(x)\\&=\sum_{x}^{}(x^2-2\mu x+\mu^2)f(x)\\&=\sum_{x}^{}x^2f(x)-2\mu \sum_{x}^{}xf(x)+\mu^2 \sum_{x}^{}f(x)\\&=E(X^2)-\mu^2\\&=E(X^2)-(E(x))^2\end{align}\]
+
+                e) \[\begin{align}var(X)&=E(X^2)-(E(x))^2\\&=.6-(.4)^2\\&=.44\end{align}\]
+   - Binomial Distribution :: suppose an experiment consists of n independent Bernoulli trials where the probability of success in each trial is p
+        NOTE: Bernoulli trial can result in "success" or "Failure"
+        X = # of successes in the n trials
+        then X has a binomial distribution with "parameters" n and p X~Bin(n,p) $\binom{n}{k}p^k(1-p)^{n-k}$ -- prob x has value k
+   - Theorem :: X~Bin(n,p) iff
+                f(x) = P(X=x) = $\binom{n}{x}p^x(1-p)^{n-x}$
+                for x = 0,1,...,n
+                NOTE: Binomial Expansion
+                For constants a and b $(a+b)^n= \sum_{x=0}^{n}\binom{n}{x}a^xb^{n-x}$
+                \[\begin{align}(a+b)^2&=\sum_{x=0}^{2}\binom{2}{x}a^xb^{2-x}\\&=\binom{2}{0}a^0b^2+\binom{2}{1}a^1b^1+\binom{2}{2}a^0b^2\\&=b^2+2ab+a^2\end{align}\]
+                let a=p b=1-p
+                $\sum_{x=0}^{n}\binom{n}{x} p^x(1-p)^{n-x}=(p+(1-p))^n$
+                - Theorem :: If X~Bin(n,p), then
+                             a)E(x)=np
+                             b)
+
+
+
+   - Proof :: E(X)
+              \[\begin{align}E(x)&=\sum_{x}^{}xf(x)\\&=\sum_{x=1}^{n}x \binom{n}{x}p^x(1-p)^{n-x}\\&=\sum_{x=1}^{n}\frac{n!}{(x-1)!(n-x)!}p^x(1-p)^{n-x}\\
+              &=np \sum_{x=1}^{n}\frac{(n-1)!}{(x-1)!((n-1)-(x-1))!}p^{x-1}(1-p)^{(n-1)-(x-1)}\\&=np \sum_{x=1}^{n} \binom{n-1}{x-1}p^{x-1}(1-p)^{(n-1)-(x-1)}\\
+              &=np \sum_{y=0}^{m} p^y(1-p)^{m-y} \quad ; \ m=n-1, y=x-1\\&=np\end{align}\]
+
+   - Example :: Roll die 10 times, let X = # of 6's
+                Find P(X=2)
+                Old way: \[P(X=2)=P(b_1b_2b_3^c\ldots b_10^c)+ \ every \ other \ permutation\]
+                Bin Way: X~Bin(n=10, p = 1/6)
+                \[\begin{align}P(X=2)&=\binom{n}{x}p^x(1-p)^{n-x}\\&=\binom{10}{2}(\frac{1}{6})^2(\frac{5}{6})^8\\&=0.2907\end{align}\]
+
+   - Example :: 2% of tires are defective - Randomly Select 30 tires (independent)
+                let X = # of defective tires
+                X~Bin(n=30, p=.02)
+                a) \[\begin{align}P(X=3)&=\binom{n}{x}p^x(1-p)^{n-x}\\&=\binom{30}{3}.02^3(1-0.02)^{30-3}\\&=0.0188\end{align}\]
+
+                b) \[\begin{align}(\geq 1)&=(P(x=1)\ldots +P(X=30)\\&=1-P(X<1)\\&=1-P(X=0)\\&=1-\binom{n}{x}p^x(1-p)^{n-x}\\&=1-\binom{30}{0}0.02(1-.02)^30\\&=0.4545\end{align}\]
+                c) on avg how may def
+                $\mu=E(x)=np=30(0.02)$
+                d) $SD(x)=\sqrt{.588}=0.767$
+                NOTE: A Bernoulli dist is a binomial dist with n=1
+                x~Bern(p)                $f(x)=P(X=x)=p^x(1-p)^{1-x}\quad x=0,1$
+   - Negative binomial distribution :: Sequence of independent Bernoulli trials with probability of success p.
+        X = trial on which get rth success, then    (ie trials are not fixed, go until r success)
+        X~NB(r,p)
+     - Theorem :: X~NB(r,p) iff
+                  \[\begin{align}f(x)&=P(X=x)= \binom{x-1}{r-1}p^r(1-p)^{x-r}\quad for\  x=r,r+1,\ldots\end{align}\]
+     - Theorem :: \[\sum_{x=r}^{x}\binom{x-1}{r-1}p^r(1-p)^{x-r}=1\]
+     - Theorem :: if X~NB(r,p), then
+                  a) $E(X) = \frac{r}{p}$
+                  b) \[Var(x) = \frac{r(1-p)}{p^2}\]
+     - Example :: Probability you hit target on any given shot is 0.42 (shooting range)
+                  Assume shots are independent. Let X = shot on which you hit target for the 3rd time
+                  X~NB(r=3,p=0.42)
+                  a) Find probability target is hit for 3rd time on 5th shot.
+                  \[\begin{align}P(x=5)&=\binom{x-1}{r-1}p^r(1-p)^{x-r}\\&=\binom{5-1}{3-1}0.42^3(1-.42)^{5-3}\\&=\binom{4}{2}0.42^3(0.58)^2 \\&=0.150\end{align}\]
+                  b) On average how man shots needed for 3rd hit?
+                  \[\begin{align}E(x)=\frac{r}{p}=\frac{3}{0.42}=7.14\end{align}\]
+   - Geometric Distribution :: Negative binomial with r = 1
+        NOTE: binomial distribution is analagous to sampling with replacement
+   - Hypergeometric Distribution :: analagous to sampling without replacement
+        Have N objects *M = success, N-M = failures
+        Randomly select n objects without replacement
+        if X = number of successes then X~HG(n,N,M)
+        NOTE Randomly select n objects with replacement X=#success X~Bin(n,M/N)
+   - X~HG(n,N,M) :: iff \[f(x)=P(X=x)=\frac{\binom{M}{n}\binom{N-M}{n-x}}{\binom{N}{n}}\]; x=0,1,...,n; $x\leq M$; $n-x\leq N-M$
+   - Theorem :: If X~HG(n,N,M), then
+                a) \[E(X)=n \frac{M}{N}\]
+                b) \[Var(X)=n \frac{M}{N}(1- \frac{M}{N})(\frac{N-m}{N-a})\]; last term is finite population correction factor ($\leq 1$)
+   - Example :: Bowl has 20 M&Ms, 4 of which are blue. RS 3 without replacement
+                let X = # of Blue
+                X~HG(n=3,N=20,M=4) NOTE: with replacement X~Bin(n=20,p=4/20)
+                a) Find prob of 0 blue  *** DEBUG BELOW
+                \[\begin{align}P(x=0)&=P(B_1^c\cap B_2^c\cap B_3^c)\\P(B_1^c)P(B_2^c|B_1^c)P(B_3^c|B_1^c\cap B_2^c)=0.491\\P(X=0)&=\frac{\binom{M}{x}\binom{N-M}{n-x}}{\binom{N}{n}=\frac{\binom{4}{0}\binom{20-4}{3-0}}{\binom{20}{3}}=0.491\end{align}\]
+                b)Find probability of 2 Blue 
+                \[P(X=2)&=P(B_1\cap B_2\cap B_3^c)+P(B_1\cap B_2^c\cap B_3)+P(B_1^c\cap B_2\cap B_3)\\P(X=2)&=\frac{\binom{M}{x}\binom{N-M}{n-x}}{\binom{N}{n}}\\&=\frac{\binom{4}{2}\binom{20-4}{3-2}}{\binom{20}{3}}}\]
+                c) Expected # of B
+                \[E(X)=n \frac{M}{N}=3 \frac{4}{20}=0.6\]
+                NOTE: when N is large and n is small we can approx HG(n,N,M) with Bin(n,P=M/N)
+   - Example :: 120 applicants, 80 are qualified. Randomly Select 5 applicants without replacement. X = # of qualified
+                X~HG(n=5,N=120,M=80)
+                \[P(X=2)=\frac{\binom{80}{2}\binom{120-80}{5-2}}{\binom{120}{5}}=0.164\]
+                \[X\dot{~}Bin\left( n=5,p=\frac{80}{120}\right) \]
+                \[P(X=2)=\binom{n}{x}p^x(1-p)^{n-x}=\binom{5}{2}\left(\frac{2}{3}\right)^2\left(1-\frac{2}{3}\right)^{5-2}\]
+   - Poisson Distribution :: Suppose X is a random variable such that X = # of occurences in an interval or region where $\lambda$ = expected # of occurences in the interval or region
+        ASSUME
+        a) # of occurences in non-overlapping intervals or regions are independent
+        b) probability of occurrence is proportional to $\lambda$ * length of interval
+        c)
+        Then X~Pois($\lambda$)
+   - X~Pois($\lambda$) :: iff
+        \[f(x)=P(X=x)=\frac{e^{\lambda}\lambda ^x}{x!}\]
+        for x = 0,1,2,...$\infty$
+        NOTE: \[\sum_{x-0}^{\infty}\frac{e^{-\lambda}\lambda^x}{x!}=e^{-\lambda}\sum_{x=0}^{\infty}\frac{\lambda^x}{x!}\]  (McLauren series) ;; check name of this
+   - Theorem :: If X~Pois($\lambda$), then 
+                a) E(X)=$\lambda$
+                b)Var(X)=$\lambda$

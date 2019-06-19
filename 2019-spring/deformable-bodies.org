@@ -1,0 +1,9 @@
+* Exams
+** TODO Exam 1 (Ch. 1-5)
+   DEADLINE: <2019-02-13 Wed>
+** TODO Exam 2 (Ch. 6-7)
+   DEADLINE: <2019-03-06 Wed>
+** TODO Exam 3 (Ch. 8-11)
+   DEADLINE: <2019-04-15 Mon>
+
+

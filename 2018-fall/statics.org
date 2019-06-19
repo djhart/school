@@ -55,10 +55,7 @@
 
    - State "MISSED"     from "TODO"       [2018-11-05 Mon 12:38]
 ** TODO Problem Set #20
-   DEADLINE: <2018-11-12 Mon>
-** TODO Problem Set #21
    DEADLINE: <2018-11-14 Wed>
-
 * Writing Assignment 
 ** DONE Writing Draft
    CLOSED: [2018-10-18 Thu 15:46] DEADLINE: <2018-10-17 Wed>

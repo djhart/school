@@ -1,0 +1,13 @@
+* Good themes (SPC T s)
+** darkburn ;; really goood no bad highlights either
+** Badwolf ;; really good
+** Monokai ;; good normal highlights - kind of yellowy
+** soft-stone ;; white background - good no problem highlights
+** Tango dark ;; really bright highlight line but not bad
+** Tango 2 ;; same as above
+** tao-yang ;; like softstone very pleasant
+** Tao-yin ;; nice monochrome black also very pleasant weird menu but not bad
+** Zen and art ;; some levels hard to see - dark blue on black bad highlights
+** Zenburn ;; great -- really good 
+** Wombat ;; Very nice bad highlight though 
+** Wilson ;; very nice bad highlight though

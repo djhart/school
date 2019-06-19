@@ -1,0 +1,3 @@
+* TODO inline plots ala latex preview
+** get gnuplot to output tikz code
+** pull tikz into a formatted latex block and preview so plot is straight in notes

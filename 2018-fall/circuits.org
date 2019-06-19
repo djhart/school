@@ -65,4 +65,4 @@
 ** AC
 *** Time domain -> frequency domain
 *** find phasors and take -> time domain
-*** know how to go from complex to polar (calculator prob can)
+*** know how to go from complex to polar (calculator prob can do this)

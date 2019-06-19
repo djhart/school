@@ -1,0 +1,90 @@
+* Assignments
+** DONE HW1
+   CLOSED: [2019-01-22 Tue 00:31] DEADLINE: <2019-01-21 Mon>
+   - State "DONE"       from              [2019-01-22 Tue 00:31]
+** DONE HW2
+   CLOSED: [2019-01-22 Tue 00:31] DEADLINE: <2019-01-21 Mon>
+   - State "DONE"       from              [2019-01-22 Tue 00:31]
+** DONE HW3
+   CLOSED: [2019-02-01 Fri 11:33] DEADLINE: <2019-01-28 Mon>
+   - State "DONE"       from "TODO"       [2019-02-01 Fri 11:33]
+** DONE HW4
+   CLOSED: [2019-02-01 Fri 11:33] DEADLINE: <2019-01-28 Mon>
+   - State "DONE"       from "TODO"       [2019-02-01 Fri 11:33]
+** DONE HW5
+   CLOSED: [2019-02-12 Tue 12:27] DEADLINE: <2019-02-04 Mon>
+   - State "DONE"       from "TODO"       [2019-02-12 Tue 12:27]
+** DONE HW6
+   CLOSED: [2019-02-12 Tue 12:27] DEADLINE: <2019-02-04 Mon>
+   - State "DONE"       from "TODO"       [2019-02-12 Tue 12:27]
+** DONE HW7
+   CLOSED: [2019-02-12 Tue 12:27] DEADLINE: <2019-02-04 Mon>
+   - State "DONE"       from "TODO"       [2019-02-12 Tue 12:27]
+** DONE HW8 
+   CLOSED: [2019-02-12 Tue 12:26] DEADLINE: <2019-02-11 Mon>
+   - State "DONE"       from "TODO"       [2019-02-12 Tue 12:26]
+** DONE HW9
+   CLOSED: [2019-02-12 Tue 12:26] DEADLINE: <2019-02-11 Mon>
+   - State "DONE"       from "TODO"       [2019-02-12 Tue 12:26]
+** DONE HW10
+   CLOSED: [2019-02-12 Tue 12:26] DEADLINE: <2019-02-11 Mon>
+   - State "DONE"       from "TODO"       [2019-02-12 Tue 12:26]
+** TODO HW11 
+   DEADLINE: <2019-02-18 Mon>
+** TODO HW12
+   DEADLINE: <2019-02-18 Mon>
+** TODO HW13
+   DEADLINE: <2019-02-25 Mon>
+** TODO HW14
+   DEADLINE: <2019-02-25 Mon>
+** TODO HW15
+   DEADLINE: <2019-03-04 Mon>
+** TODO HW16
+   DEADLINE: <2019-03-04 Mon>
+** TODO HW17 
+   DEADLINE: <2019-03-04 Mon>
+** TODO HW18
+   DEADLINE: <2019-03-11 Mon>
+** TODO HW19
+   DEADLINE: <2019-03-11 Mon>
+** TODO HW20 
+   DEADLINE: <2019-03-11 Mon>
+** TODO HW21
+   DEADLINE: <2019-03-18 Mon>
+** TODO HW22 
+   DEADLINE: <2019-04-01 Mon>
+** TODO HW23
+   DEADLINE: <2019-04-01 Mon>
+** TODO HW24
+   DEADLINE: <2019-04-01 Mon>
+** TODO HW25
+   DEADLINE: <2019-04-08 Mon>
+** TODO HW26
+   DEADLINE: <2019-04-08 Mon>
+** TODO HW27
+   DEADLINE: <2019-04-08 Mon>
+** TODO HW28 
+   DEADLINE: <2019-04-15 Mon>
+** TODO HW29
+   DEADLINE: <2019-04-15 Mon>
+** TODO HW30
+   DEADLINE: <2019-04-15 Mon>
+** TODO HW31 
+   DEADLINE: <2019-04-22 Mon>
+** TODO HW32 
+   DEADLINE: <2019-04-29 Mon>
+** TODO HW33
+   DEADLINE: <2019-04-29 Mon>
+** TODO HW34
+   DEADLINE: <2019-04-29 Mon>
+** TODO HW35
+   DEADLINE: <2019-05-06 Mon>
+* Exams
+** TODO Exam 1 (lecs. 1-14)
+   DEADLINE: <2019-02-18 Mon>
+** TODO Exam 2 (lecs. 15-24)
+   DEADLINE: <2019-03-13 Wed>
+** TODO Exam 3 (lecs.25-37)
+   DEADLINE: <2019-04-19 Fri>
+* Notes
+** JUST ADD THE CHAPTER SUMMARIES SO FAR. ITS MOSTLY REVIEW BUT THE EQUATIONS WOULD BE GOOD TO HAVE

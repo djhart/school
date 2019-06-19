@@ -1,0 +1,5 @@
+* Assignments
+** DONE Quiz
+   CLOSED: [2019-01-23 Wed 11:45] DEADLINE: <2019-01-29 Tue>
+
+   - State "DONE"       from "TODO"       [2019-01-23 Wed 11:45]

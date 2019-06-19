@@ -4,61 +4,36 @@
 ** Monokai ;; good normal highlights - kind of yellowy
 ** soft-stone ;; white background - good no problem highlights
 ** Tango dark ;; really bright highlight line but not bad
+** Tango 2 ;; same as above
 ** tao-yang ;; like softstone very pleasant
 ** Tao-yin ;; nice monochrome black also very pleasant weird menu but not bad
 ** Zen and art ;; some levels hard to see - dark blue on black bad highlights
 ** Zenburn ;; great -- really good 
 ** Wombat ;; Very nice bad highlight though 
 ** Wilson ;; very nice bad highlight though 
-* Appointments
-** DONE Meet with advisor
-   CLOSED: [2018-11-07 Wed 12:35] DEADLINE: <2018-11-06 Tue>
-   - State "DONE"       from "TODO"       [2018-11-07 Wed 12:35]
-   - 0930 4655 SC
-   - Research
-     - At latest begin by summer 2019
-     - Summer more likely to be paid
-     - look at website, find people, try to meet with them in person
-     - need 3.0 bare minimum
-     - advisor will help - seems like good guy
-     - find a journal to start reading
-     - do not be afraid of unpaid work during spring semester, need to get name out - become known as good researcher (doer)
-** TODO Meet with Zhang
-   DEADLINE: <2018-11-13 Tue>
-   - 10-12 25E MLH
-   - find out about midterm - why so bad?
-* TO DO 
-** Friday 11/9 [/]
-*** [ ] Clean 
-**** [ ] kitchen
-**** [ ] office
-**** [ ] vaccuum
-**** [ ] mop
-*** [ ] Earth Science and Thermo reading
-*** [ ] start diff eq 
-*** [ ] yoga > 30 min 
-*** [ ] make candles
-** Saturday 11/10 [/] 
-*** [ ] fix bike
-**** BB
-**** brakes
-**** crank
-**** lubricate
-*** [ ] glue shelves / screw
-*** [ ] mechanics HW 
-*** [ ] yoga > 30 min 
-*** [ ] pull ups / ring work
-*** [ ] diff eq HW 
-*** [ ] study thermodynamics
-*** [ ] go to work 2-3 hrs.
-** Sunday 11/11 [/]
-*** [ ] Sell backpack
-*** [ ] go to broken spoke see about crank bolt
-*** [ ] yoga > 30 min 
-*** [ ] push ups / dips / handstand work
-*** [ ] study thermodynamics
-*** [ ] study diff eq 
-*** [ ] meet with derrick about robot
-*** [ ] clean kitchen
-*** [ ] go to work ? 
-*** [ ] start on circuits hw 
+* Finals
+** TODO Earth Science Final - W290 CB
+   DEADLINE: <2018-12-10 Mon 0730>
+   - make outline/glossary type thing. look over slides, chapter reviews, practice exam (if there is one)
+** TODO Statics Final
+   DEADLINE: <2018-12-10 Mon 1230>
+   - not a lot of content but go back and work a lot of problems, make sure you get everything
+** TODO Thermodynamics Final - AUD MH
+   DEADLINE: <2018-12-12 Wed 1500>
+   - Focus on Rankine, air standard, refrigeration cycles - stuff since exam 3 (75-80% of test), only mult choice will be on past topics, probably will be a practice test as well
+** TODO Differential Equations - AUD MH
+   DEADLINE: <2018-12-11 Tue 1000>
+   - DO TWO HW PER DAY STARTING WEDNESDAY
+   - Talk to Zhang on tuesday about grade
+   - YOU MUST DO VERY WELL ON FINAL
+   - with 100% on final can get around B- or so (74.2% potential)
+   - This will be very hard test
+   - need to have laplace transforms memorised
+   - there is also a practice test
+   - most of study time should go to this one
+   - make a study guide type thing, really fucking understand the material
+   - there's not a ton here so it should be doable
+** TODO Circuits Final - AUD MH
+   DEADLINE: <2018-12-14 Fri 1000>
+   - multiple choice only, emphasis on concepts, practice exam available, will have all day thursday for this one.
+   

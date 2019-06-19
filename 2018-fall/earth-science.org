@@ -26,7 +26,7 @@
    CLOSED: [2018-11-05 Mon 12:37] DEADLINE: <2018-10-27 Sat>
 
    - State "DONE"       from "TODO"       [2018-11-05 Mon 12:37]
-** TODO Lab Paper [1/4]
+** TODO Lab Paper [2/4]
 *** DONE Choose topic
     CLOSED: [2018-10-22 Mon 14:30] DEADLINE: <2018-10-10 Wed>
     - State "DONE"       from "TODO"       [2018-10-22 Mon 14:30]
@@ -35,10 +35,13 @@
 **** [ ]
 **** [ ]
 **** [ ]
-*** TODO Powerpoint
-    DEADLINE: <2018-11-25 Sun>
+*** DONE Powerpoint
+    CLOSED: [2018-12-03 Mon 12:39] DEADLINE: <2018-11-25 Sun>
+    - State "DONE"       from "TODO"       [2018-12-03 Mon 12:39]
 *** TODO Paper
-    DEADLINE: <2018-12-02 Sun>
+    DEADLINE: <2018-12-04 Tue 2359>
+    
+    
 
 * Exams
 ** DONE Midterm Exam 1 
