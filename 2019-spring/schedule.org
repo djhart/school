@@ -11,3 +11,4 @@
 ** Zenburn ;; great -- really good 
 ** Wombat ;; Very nice bad highlight though 
 ** Wilson ;; very nice bad highlight though
+** Noctilux ;; minty, no bad highlight
